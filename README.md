@@ -1,3 +1,3 @@
 # tut
 lab program
-wednesday
+cvr college
